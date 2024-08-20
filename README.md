@@ -53,6 +53,7 @@ You need a valid API key from a weather service provider. Replace `YOUR_API_KEY`
 
 ```javascript
  key: "Your-API-Key",
+```
 
 ## Screenshots
 
