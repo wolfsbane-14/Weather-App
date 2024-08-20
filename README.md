@@ -57,9 +57,10 @@ You need a valid API key from a weather service provider. Replace `YOUR_API_KEY`
 
 ## Screenshots
 
-{img1.png}
+![Screenshot 1](img1.png)
 
-{img2.png}
+![Screenshot 2](img2.png)
+
 
 ## Acknowledgments
 
