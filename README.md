@@ -57,12 +57,14 @@ You need a valid API key from a weather service provider. Replace `YOUR_API_KEY`
 
 ## Screenshots
 
-*(Add any relevant screenshots here)*
+{img1.png}
+
+{img2.png}
 
 ## Acknowledgments
 
-- [Weather API Documentation](https://example.com/api-docs) for providing weather data.
-- [React Documentation](https://reactjs.org/docs/getting-started.html) for framework guidance.
+- [OpenWeatherMap API Documentation](https://openweathermap.org/api) for providing weather data.
+- [React Documentation](https://react.dev/) for framework guidance.
 
 
 
